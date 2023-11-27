@@ -5,4 +5,5 @@ import org.json.JSONObject
 interface MainActivityViewModelInt {
     fun getMyIpResponse(response:JSONObject) {}
     fun errorResponse() {}
+    fun requestInProgress(processing: Boolean) {}
 }

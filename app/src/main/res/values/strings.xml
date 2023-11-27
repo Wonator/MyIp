@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyIp</string>
+    <string name="get_my_ip">Get My IP</string>
+    <string name="permission_required">Internet access is required to get IP</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted">Permission is granted</string>
+    <string name="request_failed">MyIP Request failed</string>
 </resources>
