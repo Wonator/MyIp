@@ -6,7 +6,7 @@ on:
     types:
       - created
     branches:
-      - maaster
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
